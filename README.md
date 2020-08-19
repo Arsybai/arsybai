@@ -14,6 +14,6 @@
 
 ---
 
-![lol](https://img.shields.io/badge/Python-59%20commits-orange.svg) ![html](https://img.shields.io/badge/HTML-20%20commits-orange.svg) ![java](https://img.shields.io/badge/Java-8%20commits-orange.svg) ![JS](https://img.shields.io/badge/JavaScript-8%20commits-orange.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/arsybai/arsybai) ![GitHub followers](https://img.shields.io/github/followers/arsybai?style=social) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsybai&layout=compact)](https://github.com/arsybai/github-readme-stats)
