@@ -13,6 +13,5 @@
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/arsybai/arsybai) ![GitHub followers](https://img.shields.io/github/followers/arsybai?style=social) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsybai&layout=compact)](https://github.com/arsybai/github-readme-stats)
