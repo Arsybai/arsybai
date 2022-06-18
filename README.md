@@ -10,9 +10,6 @@
 ### Currently Working on :
 - Clee Ltd. (Founder)
 
-
-![a](https://github-readme-stats.vercel.app/api?username=arsybai&theme=blue-green)
-
 ---
 - 🌱 I’m currently learning to life
 - 📫 How to reach me: by contact me
