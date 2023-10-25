@@ -1,7 +1,7 @@
 <!--
 **Arsybai/arsybai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. test
 -->
-![banner](https://trakteer.id/storage/images/cover/cvr-B9GNsH0QBe7gyRd4oxmbyAlfk2UZzrgC1602042199.jpg)
+![banner](https://i.ibb.co/PjNnYRG/1335416ff.png)
 
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arsybai)
 
