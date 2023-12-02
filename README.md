@@ -15,14 +15,11 @@
 - 📫 How to reach me: by contact me
 - ⚡ Fun fact: Imma Human
 
----
-
-### OS I use
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=arsybai">
+<img src="https://github-profile-trophy.vercel.app/?username=arsybai">
+</details>
 
 ---
 
@@ -35,7 +32,8 @@
 ---
 
 ### Feel free to contact me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@arsybai.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arsybai)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsy_24)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@arsybai)
+<a href="https://t.me/arsybai" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40arsybai-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@arsybai" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40arsybai-blueviolet"></a>
+<a href="https://linkedin.com/in/arsybai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arsybai-informational"></a>
+<a href="mailto:me@arsybai.com"><img src="https://img.shields.io/badge/Email-me%40arsybai.com-orange"></a>
+<a href="https://arsybai.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-arsybai.com-red"></a>
