@@ -18,6 +18,7 @@
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=arsybai">
+<img src="https://streak-stats.demolab.com?user=Arsybai&theme=tokyonight-duo">
 <img src="https://github-profile-trophy.vercel.app/?username=arsybai">
 </details>
 
