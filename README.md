@@ -3,8 +3,6 @@
 -->
 ![banner](https://trakteer-uploads.sgp1.digitaloceanspaces.com/images/cover/cvr-N30K8BkTq4M2V9onQjM0cTI4xLRHlp9Y1698227025.jpg)
 
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arsybai)
-
 ### Hello There
 ---
 ### Currently Working on :
