@@ -38,9 +38,8 @@
 
 ### Feel free to contact me
 <a href="https://t.me/arsybai" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40arsybai-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@arsybai" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40arsybai-blueviolet"></a>
 <a href="https://linkedin.com/in/arsybai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arsybai-informational"></a>
-<a href="mailto:me@arsybai.com"><img src="https://img.shields.io/badge/Email-me%40arsybai.com-orange"></a>
-<a href="https://arsybai.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-arsybai.com-red"></a>
+<a href="mailto:me@abye.dev"><img src="https://img.shields.io/badge/Email-me%40abye.com-orange"></a>
+<a href="https://abye.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-abye.dev-red"></a>
 
 **⟢ keep it minimal. keep it kind. ⟣**
