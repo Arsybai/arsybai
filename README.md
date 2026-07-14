@@ -1,45 +1,93 @@
-<!--
-**Arsybai/arsybai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. test
--->
-![banner](https://trakteer-uploads.sgp1.digitaloceanspaces.com/images/cover/cvr-N30K8BkTq4M2V9onQjM0cTI4xLRHlp9Y1698227025.jpg)
+<div align="center">
 
-# Abye / arsybai
+# Hey, I'm Abye 👋
 
-✨ *writes small, ships fast, keeps it tidy* ✨
+### Full-stack developer from Indonesia
 
----
+I build practical products, automation tools, and occasionally questionable experiments.
 
-### ☁️ Poetic bits
+[![Website](https://img.shields.io/badge/Website-abye.dev-111111?style=flat-square)](https://abye.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@arsybai-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/arsybai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsybai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsybai)
+[![Email](https://img.shields.io/badge/Email-me%40abye.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@abye.dev)
 
-> code like wind, light on deps, heavy on intent.
-> name things well, errors speak clearly.
-> logs whisper, tests reassure.
-> ship, learn, trim, repeat.
+</div>
 
 ---
 
-### 🧰 Toolkit (short & sweet)
+## About me
 
-`Node.js` • `Express` • `Python` • `Flask` • `PostgreSQL` • `Docker` • `Git` • `Ubuntu`
+```ts
+const abye = {
+  role: "Full-stack Developer",
+  location: "Indonesia",
+  interests: [
+    "Web Products",
+    "Automation",
+    "Developer Tools",
+    "AI Experiments",
+  ],
+  currently: "Shipping small improvements every day",
+};
+```
+
+## Currently building
+
+- 🚀 Web products and internal tools
+- 🤖 Automation systems and intelligent workflows
+- 📦 Small open-source experiments
+- 🧪 Occasionally breaking things to understand them better
+
+## Recent activity
+
+<!-- dev_activity starts -->
+
+- 🔎 **[2026-07-15](logs/2026-07-15.md)** — Reviewed current projects
+- 📝 **[2026-07-15](logs/2026-07-15.md)** — Kept the GitHub streak alive
+- 🚀 **[2026-07-15](logs/2026-07-15.md)** — Next: ship one useful improvement
+
+<!-- dev_activity ends -->
+
+## Development log
+
+<!-- dev_log starts -->
+
+| Date | Highlight |
+| --- | --- |
+| [2026-07-15](logs/2026-07-15.md) | Reviewed current projects |
+
+<!-- dev_log ends -->
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,flask,postgres,docker,git,linux,nginx" alt="Tech stack" />
+</p>
+
+## GitHub overview
+
+<details>
+<summary>Open GitHub statistics</summary>
+
+<br>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arsybai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsybai&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+</details>
+
+## Principles
+
+- Clarity over cleverness
+- Fewer moving parts
+- Build useful things
+- Ship, learn, improve, repeat
 
 ---
-![anu](https://github-readme-stats-eight-theta.vercel.app/api?username=arsybai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![anu2](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsybai&layout=compact&langs_count=8&theme=tokyonight)
----
 
-### 🧭 Principles
+<div align="center">
 
-* clarity over cleverness
-* fewer moving parts
-* boring tech, delightful DX
-* comments that age well
+### Small progress still counts.
 
----
-
-### Feel free to contact me
-<a href="https://t.me/arsybai" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40arsybai-28a8ea"></a>
-<a href="https://linkedin.com/in/arsybai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-arsybai-informational"></a>
-<a href="mailto:me@abye.dev"><img src="https://img.shields.io/badge/Email-me%40abye.com-orange"></a>
-<a href="https://abye.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-abye.dev-red"></a>
-
-**⟢ keep it minimal. keep it kind. ⟣**
+</div>
