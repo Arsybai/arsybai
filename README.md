@@ -42,9 +42,12 @@ const abye = {
 
 <!-- dev_activity starts -->
 
+- 📝 **[2026-07-16](logs/2026-07-16.md)** — Migrated several applications and services to new servers
+- 🚀 **[2026-07-16](logs/2026-07-16.md)** — Reconfigured deployment environments and supporting infrastructure
+- 🛠️ **[2026-07-16](logs/2026-07-16.md)** — Fixed several code issues discovered during and after migration
+- 🚀 **[2026-07-16](logs/2026-07-16.md)** — Next: monitor service stability and clean up the remaining deployment configuration
 - 🔎 **[2026-07-15](logs/2026-07-15.md)** — Reviewed current projects
 - 📝 **[2026-07-15](logs/2026-07-15.md)** — Kept the GitHub streak alive
-- 🚀 **[2026-07-15](logs/2026-07-15.md)** — Next: ship one useful improvement
 
 <!-- dev_activity ends -->
 
@@ -54,6 +57,7 @@ const abye = {
 
 | Date | Highlight |
 | --- | --- |
+| [2026-07-16](logs/2026-07-16.md) | Migrated several applications and services to new servers |
 | [2026-07-15](logs/2026-07-15.md) | Reviewed current projects |
 
 <!-- dev_log ends -->
