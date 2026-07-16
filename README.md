@@ -42,12 +42,12 @@ const abye = {
 
 <!-- dev_activity starts -->
 
-- 📝 **[2026-07-16](logs/2026-07-16.md)** — Migrated several applications and services to new servers
-- 🚀 **[2026-07-16](logs/2026-07-16.md)** — Reconfigured deployment environments and supporting infrastructure
-- 🛠️ **[2026-07-16](logs/2026-07-16.md)** — Fixed several code issues discovered during and after migration
-- 🚀 **[2026-07-16](logs/2026-07-16.md)** — Next: monitor service stability and clean up the remaining deployment configuration
-- 🔎 **[2026-07-15](logs/2026-07-15.md)** — Reviewed current projects
-- 📝 **[2026-07-15](logs/2026-07-15.md)** — Kept the GitHub streak alive
+- 🔎 **[2026-07-17](logs/2026-07-17.md)** — Reviewed recent GitHub activity and searched for a suitable public contribution
+- 🔎 **[2026-07-17](logs/2026-07-17.md)** — Audited related issues and pull requests to avoid duplicating existing work
+- 📝 **[2026-07-17](logs/2026-07-17.md)** — Prepared a Deno documentation guide for HTML parsing without a global `DOMParser`
+- ✨ **[2026-07-17](logs/2026-07-17.md)** — Added practical examples using LinkeDOM and Deno DOM
+- 📝 **[2026-07-17](logs/2026-07-17.md)** — Registered the guide in the Deno examples catalog and formatted the changed files
+- 🔎 **[2026-07-17](logs/2026-07-17.md)** — Next: review the final contribution and open the upstream pull request
 
 <!-- dev_activity ends -->
 
@@ -57,6 +57,7 @@ const abye = {
 
 | Date | Highlight |
 | --- | --- |
+| [2026-07-17](logs/2026-07-17.md) | Reviewed recent GitHub activity and searched for a suitable public contribution |
 | [2026-07-16](logs/2026-07-16.md) | Migrated several applications and services to new servers |
 | [2026-07-15](logs/2026-07-15.md) | Reviewed current projects |
 
