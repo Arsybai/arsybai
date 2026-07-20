@@ -42,12 +42,12 @@ const abye = {
 
 <!-- dev_activity starts -->
 
-- 📝 **[2026-07-19](logs/2026-07-19.md)** — Scaffolded the TypeScript monorepo and PostgreSQL domain schema, migrations, repositories, and shared backend foundations
-- ✨ **[2026-07-19](logs/2026-07-19.md)** — Implemented cloud APIs for event, class, session, judge assignment, visibility configuration, and validation
-- ✨ **[2026-07-19](logs/2026-07-19.md)** — Added cloud staff authentication, token handling, role-based permissions, audit support, and admin bootstrap tooling
-- 📝 **[2026-07-19](logs/2026-07-19.md)** — Built the responsive admin login, dashboard overview, and event creation and editing interface
-- ✨ **[2026-07-19](logs/2026-07-19.md)** — Added required event banner uploads with preview, validation, filesystem storage, and editable auto-generated slugs
-- ✨ **[2026-07-19](logs/2026-07-19.md)** — Next: build the admin session setup interface and continue the remaining event management workflows
+- 📝 **[2026-07-20](logs/2026-07-20.md)** — Built the published-event catalog, event detail, multi-class registration, participant and bird capture, and phone-verified order lookup
+- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added idempotent 24-hour reservations with transactional quota locking, duplicate-bird prevention, and concurrent reservation tests
+- ✨ **[2026-07-20](logs/2026-07-20.md)** — Implemented QRIS and bank-transfer payment instructions, proof-of-payment uploads, and a private finance review queue
+- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added payment approval and rejection, identity locking, gantangan randomization, receipt generation, and per-ticket QR artifacts
+- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added coverage for duplicate approvals and payment workflow edge cases
+- ✨ **[2026-07-20](logs/2026-07-20.md)** — Next: build the local event runtime and continue live-session operations
 
 <!-- dev_activity ends -->
 
@@ -57,6 +57,7 @@ const abye = {
 
 | Date | Highlight |
 | --- | --- |
+| [2026-07-20](logs/2026-07-20.md) | Built the published-event catalog, event detail, multi-class registration, participant and bird capture, and phone-verified order lookup |
 | [2026-07-19](logs/2026-07-19.md) | Scaffolded the TypeScript monorepo and PostgreSQL domain schema, migrations, repositories, and shared backend foundations |
 | [2026-07-18](logs/2026-07-18.md) | Created the `pradana-stadium` repository and initialized its project essentials |
 | [2026-07-17](logs/2026-07-17.md) | Reviewed recent GitHub activity and searched for a suitable public contribution |
