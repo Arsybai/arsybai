@@ -42,12 +42,12 @@ const abye = {
 
 <!-- dev_activity starts -->
 
-- 📝 **[2026-07-20](logs/2026-07-20.md)** — Built the published-event catalog, event detail, multi-class registration, participant and bird capture, and phone-verified order lookup
-- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added idempotent 24-hour reservations with transactional quota locking, duplicate-bird prevention, and concurrent reservation tests
-- ✨ **[2026-07-20](logs/2026-07-20.md)** — Implemented QRIS and bank-transfer payment instructions, proof-of-payment uploads, and a private finance review queue
-- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added payment approval and rejection, identity locking, gantangan randomization, receipt generation, and per-ticket QR artifacts
-- ✨ **[2026-07-20](logs/2026-07-20.md)** — Added coverage for duplicate approvals and payment workflow edge cases
-- ✨ **[2026-07-20](logs/2026-07-20.md)** — Next: build the local event runtime and continue live-session operations
+- ✨ **[2026-07-21](logs/2026-07-21.md)** — Added database-backed transfer-account management with configurable bank identity, account details, logo, active status, and display order
+- ✨ **[2026-07-21](logs/2026-07-21.md)** — Added admin workflows for creating and updating bank-transfer destinations used during participant checkout
+- 🔎 **[2026-07-21](logs/2026-07-21.md)** — Separated the payment review queue from transfer-account configuration under Settings → Rekening
+- 📝 **[2026-07-21](logs/2026-07-21.md)** — Consolidated reusable desktop and mobile navigation across dashboard, events, payments, and settings
+- ✨ **[2026-07-21](logs/2026-07-21.md)** — Updated payment status handling and added coverage for admin navigation and payment-setting workflows
+- ✨ **[2026-07-21](logs/2026-07-21.md)** — Next: build the local event runtime and continue live-session operations
 
 <!-- dev_activity ends -->
 
@@ -57,6 +57,7 @@ const abye = {
 
 | Date | Highlight |
 | --- | --- |
+| [2026-07-21](logs/2026-07-21.md) | Added database-backed transfer-account management with configurable bank identity, account details, logo, active status, and display order |
 | [2026-07-20](logs/2026-07-20.md) | Built the published-event catalog, event detail, multi-class registration, participant and bird capture, and phone-verified order lookup |
 | [2026-07-19](logs/2026-07-19.md) | Scaffolded the TypeScript monorepo and PostgreSQL domain schema, migrations, repositories, and shared backend foundations |
 | [2026-07-18](logs/2026-07-18.md) | Created the `pradana-stadium` repository and initialized its project essentials |
